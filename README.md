@@ -10,7 +10,7 @@
 - **Formato:** Presencial
 - **Data:** 26, 27 e 28 de novembro de 2025
 - **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
-- **Local:** Laboratório de Informática do Curso de Geografia - Sala XX
+- **Local:** Laboratório de Informática do Curso de Geografia - Sala XX / UFCG - Campina Grande (PB)
 - **Carga Horária:** 15 horas
 
 ---
