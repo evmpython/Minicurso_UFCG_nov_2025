@@ -89,4 +89,4 @@ Todo o material está disponível no GitHub:
 ---
 
 ### 📧 Contato
-Para mais informações, entre em contato através do email: [seu-email@unifei.edu.br](mailto: enrique@unifei.edu.br)
+Para mais informações, entre em contato através do email: enrique@unifei.edu.br
