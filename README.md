@@ -48,11 +48,17 @@
 - Rastreamento manual de tempestades
 
 ### Módulo 2: Análise de Precipitação por Satélite
-- Introdução ao produto MERGE
-- Mapas de precipitação (horária, diária, mensal)
-- Análises sazonais e anuais
-- Séries temporais de precipitação
-- Análises espaciais personalizadas
+-	Conhecendo o produto MERGE  
+-	Mapa de precipitação horária 
+-	Mapa de precipitação diária 
+-	Mapa de precipitação mensal
+-	Mapa de precipitação sazonal 
+-	Mapa de precipitação anual  
+-	Série temporal total mensal  
+-	Série temporal média mensal  
+-	Série temporal do acumulado anual  
+-	Mapeando a precipitação para estados, municípios, bacias hidrográficas e uma latitude e longitude
+
 
 ### Módulo 3: Índices de Vegetação com GEE
 -	Mapas interativos com geemap
