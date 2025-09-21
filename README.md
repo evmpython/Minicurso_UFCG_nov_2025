@@ -55,11 +55,12 @@
 - Análises espaciais personalizadas
 
 ### Módulo 3: Índices de Vegetação com GEE
-- Mapas interativos com Geemap
-- Cálculo de índices de vegetação
-- Animações temporais
-- Mapas climatológicos
-- Análise de séries temporais
+•	Mapas interativos com geemap
+•	Conhecendo e calculando diversos índices de vegetação
+•	Criando animações dos índices de vegetação para países, estados e municípios 
+•	Mapas climatológicos
+•	Explorando séries temporais   
+
 
 ---
 
