@@ -1,12 +1,14 @@
 ---
 🐍 Minicurso: PyVisSat - Processamento e Visualização de Imagens de Satélite, Dados de Precipitação e Índices de Vegetação com Python
 ---
+
 👨‍🏫 Ministrante: Prof. Dr. Enrique Vieira Mattos – Universidade Federal de Itajubá (UNIFEI)
 📅 Formato: Presencial
 📆 Data: 26, 27 e 28 de novembro de 2025
 ⏰ Horário: 09:00 às 17:00 horas (com 2,0 h de intervalo de almoço)
 📍 Local: Laboratório de Informática do Curso de Geografia – Sala XX
 ⏳ Carga Horária Total: 15 horas
+
 ---
 🎯 Objetivo do Curso:
 Nos últimos anos, o uso da linguagem de programação Python tem crescido rapidamente devido à sua facilidade de aprendizado, ampla aplicabilidade em diversas áreas científicas e uma comunidade ativa. Este curso tem como objetivo ensinar os participantes a processar, visualizar e analisar imagens de satélite, dados de precipitação e índices de vegetação usando Python. Os alunos aprenderão a utilizar bibliotecas essenciais como Xarray, Pandas, Matplotlib, Cartopy, Ultraplot, Salem e Geemap, além de explorar a plataforma Google Earth Engine (GEE). Ao final, estarão aptos a gerar análises rápidas e interativas para qualquer região do Brasil.
