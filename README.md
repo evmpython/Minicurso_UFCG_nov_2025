@@ -9,7 +9,6 @@
 📍 Local: Laboratório de Informática do Curso de Geografia – Sala XX
 ⏳ Carga Horária Total: 15 horas
 
----
 🎯 Objetivo do Curso:
 Nos últimos anos, o uso da linguagem de programação Python tem crescido rapidamente devido à sua facilidade de aprendizado, ampla aplicabilidade em diversas áreas científicas e uma comunidade ativa. Este curso tem como objetivo ensinar os participantes a processar, visualizar e analisar imagens de satélite, dados de precipitação e índices de vegetação usando Python. Os alunos aprenderão a utilizar bibliotecas essenciais como Xarray, Pandas, Matplotlib, Cartopy, Ultraplot, Salem e Geemap, além de explorar a plataforma Google Earth Engine (GEE). Ao final, estarão aptos a gerar análises rápidas e interativas para qualquer região do Brasil.
 
