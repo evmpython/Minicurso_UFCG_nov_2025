@@ -20,7 +20,7 @@
 
 ## 🎯 Objetivo do Curso
 
-O curso tem como objetivo ensinar os participantes a processar, visualizar e analisar imagens de satélite, dados de precipitação e índices de vegetação utilizando Python. Serão abordadas as principais bibliotecas para análise geoespacial e meteorológica, com aplicações práticas em estudos ambientais.
+Nos últimos anos o uso da linguagem de programação Python tem crescido rapidamente. Isso deve a sua facilidade de aprendizado, extensa aplicabilidade em diversas áreas científicas e comunidade fortemente atuante. Com isso, o uso do Python para pesquisas e operação nos setores públicos e privados de meteorologia tem ganhado bastante atenção. Nesse contexto, este curso tem como objetivo ensinar os alunos a processarem, visualizarem e analisarem as informações de imagens de satélite, precipitação e índices de vegetação através da linguagem Python. Os alunos aprenderão a trabalhar com as principais bibliotecas Python amplamente empregadas em meteorologia, como: Xarray, Pandas, Matplotlib, Cartopy, Ultraplot, Salem, Geemap. Em adição, aprenderemos sobre a plataforma de análise e visualização de dados geoespaciais denominada Google Earth Engine (GEE). Empregaremos essas bibliotecas e base de dados para produzir e analisar imagens de satélite, mapas e séries temporais de precipitação e índices de vegetação fornecidos por satélites. Com o aprendizado adquirido os alunos poderão gerar análises de forma rápida e interativa para qualquer estado e município do Brasil.
 
 ---
 
