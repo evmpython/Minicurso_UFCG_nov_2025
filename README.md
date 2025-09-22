@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/evmpython/Minicurso_UFCG_nov_2025/blob/main/logo/python-logo-master-v3-TM.png))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/evmpython/Minicurso_UFCG_nov_2025/blob/main/logo/python-logo-master-v3-TM.png)
 
 ---
 
