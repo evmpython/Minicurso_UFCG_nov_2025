@@ -1,4 +1,3 @@
-![xxx](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/evmpython/Minicurso_UFCG_nov_2025/blob/main/logo/python-logo-master-v3-TM.png)
 
 ---
 
