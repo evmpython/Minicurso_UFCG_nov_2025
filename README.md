@@ -69,8 +69,12 @@
 -	Mapas climatológicos
 -	Explorando séries temporais   
 
-### Módulo Bônus: Trabalhando com dados do ERA-5
--	Mapas interativos com geemap
+### Módulo Bônus: Trabalhando com dados do ERA5 na nuvem
+-	Acesso aos dados do ERA5 em nuvem
+- Variáveis e níveis disponíveis
+-	Aprendendo a plotar alguns mapas simples
+-	Aprendendo a plotar série temporal para uma localidade
+
 ---
 
 ## 🎓 Público-Alvo
