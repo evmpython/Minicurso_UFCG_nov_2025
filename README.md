@@ -67,7 +67,8 @@
 -	Mapas climatológicos
 -	Explorando séries temporais   
 
-
+### Módulo Bônus: Trabalhando com dados do ERA-5
+-	Mapas interativos com geemap
 ---
 
 ## 🎓 Público-Alvo
