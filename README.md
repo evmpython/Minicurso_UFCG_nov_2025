@@ -1,7 +1,7 @@
 
 ---
 
-# **Minicurso**: Processamento e Visualização de Imagens de Satélite, Dados de Precipitação e Índices de Vegetação com Python (PyVisSat)
+# <span style="color:blue">Minicurso: Processamento e Visualização de Imagens de Satélite, Dados de Precipitação e Índices de Vegetação com Python (PyVisSat)</span>
 
 ### Ministrante: Prof. Dr. Enrique Vieira Mattos
 **Universidade Federal de Itajubá (UNIFEI)**
