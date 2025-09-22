@@ -79,9 +79,7 @@ Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Fed
 
 ---
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-## ⚙️ Pré-requisitos
-
+> Pré-requisitos necessários para executar pos códigos.
 - Conhecimento básico de Python (desejável)
 - E-mail do Gmail
 - Conta no Google Earth Engine: [https://earthengine.google.com/](https://earthengine.google.com/)
