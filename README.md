@@ -79,9 +79,9 @@ Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Fed
 
 ---
 > [!WARNING]
-> Pré-requisitos necessários para executar pos códigos.
-- E-mail do Gmail
-- Conta no Google Earth Engine: [https://earthengine.google.com/](https://earthengine.google.com/)
+> Pré-requisitos necessários para executar pos códigos: 
+  > 1. Possuir uma conta de E-mail do Gmail
+  > 2. Possuir uma conta no Google Earth Engine: [https://earthengine.google.com/](https://earthengine.google.com/)
 
 
 ---
