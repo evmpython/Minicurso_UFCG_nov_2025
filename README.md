@@ -12,7 +12,7 @@
 ## 📋 Informações Gerais
 
 - **Formato:** Presencial
-- **Data:** 26, 27 e 28 de novembro de 2025
+- **Data:** 25, 26 e 27 de novembro de 2025
 - **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
 - **Local:** Laboratório de Informática do Curso de Geografia - Sala XX / UFCG - Campina Grande (PB)
 - **Vagas disponíveis:** 40
@@ -30,11 +30,11 @@
 
 | Data | Horário | Carga Horária | Módulo |
 |------|---------|:-------------:|--------|
-| 26/nov | 14:00-17:00 | 3h | **Módulo 1:** Plotagem de Imagens de Satélite |
+| 25/nov | 14:00-17:00 | 3h | **Módulo 1:** Plotagem de Imagens de Satélite |
+| 26/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
+| 26/nov | 14:00-17:00 | 3h | **Módulo 2:** Mapas e Séries Temporais de Precipitação |
 | 27/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
-| 27/nov | 14:00-17:00 | 3h | **Módulo 2:** Mapas e Séries Temporais de Precipitação |
-| 28/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
-| 28/nov | 14:00-17:00 | 3h | **Módulo 3:** Índices de Vegetação com Google Earth Engine |
+| 27/nov | 14:00-17:00 | 3h | **Módulo 3:** Índices de Vegetação com Google Earth Engine |
 
 ---
 
