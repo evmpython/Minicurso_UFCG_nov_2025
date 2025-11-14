@@ -87,7 +87,7 @@ def loadCPT(path):
 
     return colorDict
 #-----------------------------------------------------------------------------------------------------------
-def download_CMI(yyyymmddhhmn, band, bucket_name, path_dest):
+def download_CMI(yyyymmddhhmn, band, goes_number, path_dest):
 
   os.makedirs(path_dest, exist_ok=True)
 
@@ -98,7 +98,7 @@ def download_CMI(yyyymmddhhmn, band, bucket_name, path_dest):
 
   # AMAZON repository information 
   # https://noaa-goes16.s3.amazonaws.com/index.html
-  ###bucket_name = 'noaa-goes16'
+  bucket_name = f'noaa-goes{goes_number}'
   product_name = 'ABI-L2-CMIPF'
 
   # Initializes the S3 client
@@ -134,7 +134,7 @@ def download_CMI(yyyymmddhhmn, band, bucket_name, path_dest):
   return f'{file_name}'
 
 #-----------------------------------------------------------------------------------------------------------
-def download_PROD(yyyymmddhhmn, product_name, bucket_name, path_dest):
+def download_PROD(yyyymmddhhmn, product_name, goes_number, path_dest):
 
   os.makedirs(path_dest, exist_ok=True)
 
@@ -145,7 +145,7 @@ def download_PROD(yyyymmddhhmn, product_name, bucket_name, path_dest):
 
   # AMAZON repository information 
   # https://noaa-goes16.s3.amazonaws.com/index.html
-  ###bucket_name = 'noaa-goes16'
+  bucket_name = f'noaa-goes{goes_number}'
 
   # Initializes the S3 client
   s3_client = boto3.client('s3', config=Config(signature_version=UNSIGNED))
@@ -178,7 +178,7 @@ def download_PROD(yyyymmddhhmn, product_name, bucket_name, path_dest):
   return f'{file_name}'
 
 #-----------------------------------------------------------------------------------------------------------
-def download_GLM(yyyymmddhhmnss, bucket_name, path_dest):
+def download_GLM(yyyymmddhhmnss, goes_number, path_dest):
 
   os.makedirs(path_dest, exist_ok=True)
 
@@ -190,14 +190,14 @@ def download_GLM(yyyymmddhhmnss, bucket_name, path_dest):
 
   # AMAZON repository information 
   # https://noaa-goes16.s3.amazonaws.com/index.html
-  ###bucket_name = 'noaa-goes16'
+  bucket_name = f'noaa-goes{goes_number}'
 
   # Initializes the S3 client
   s3_client = boto3.client('s3', config=Config(signature_version=UNSIGNED))
   #-----------------------------------------------------------------------------------------------------------
   # File structure
   product_name = "GLM-L2-LCFA"
-  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}_G16_s{year}{day_of_year}{hour}{min}{seg}'
+  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}_G{goes_number}_s{year}{day_of_year}{hour}{min}{seg}'
 
   # Seach for the file on the server
   s3_result = s3_client.list_objects_v2(Bucket=bucket_name, Prefix=prefix, Delimiter = "/")
