@@ -105,7 +105,7 @@ def download_CMI(yyyymmddhhmn, band, goes_number, path_dest):
   s3_client = boto3.client('s3', config=Config(signature_version=UNSIGNED))
   #-----------------------------------------------------------------------------------------------------------
   # File structure
-  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6C{int(band):02.0f}_G16_s{year}{day_of_year}{hour}{min}'
+  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6C{int(band):02.0f}_G{goes_number}_s{year}{day_of_year}{hour}{min}'
 
   print(prefix)
 
@@ -151,7 +151,7 @@ def download_PROD(yyyymmddhhmn, product_name, goes_number, path_dest):
   s3_client = boto3.client('s3', config=Config(signature_version=UNSIGNED))
   #-----------------------------------------------------------------------------------------------------------
   # File structure
-  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6_G16_s{year}{day_of_year}{hour}{min}'
+  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6_G{goes_number}_s{year}{day_of_year}{hour}{min}'
 
   # Seach for the file on the server
   s3_result = s3_client.list_objects_v2(Bucket=bucket_name, Prefix=prefix, Delimiter = "/")
