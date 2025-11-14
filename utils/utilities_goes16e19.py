@@ -107,6 +107,8 @@ def download_CMI(yyyymmddhhmn, band, bucket_name, path_dest):
   # File structure
   prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6C{int(band):02.0f}_G16_s{year}{day_of_year}{hour}{min}'
 
+  print(prefix)
+
   # Seach for the file on the server
   s3_result = s3_client.list_objects_v2(Bucket=bucket_name, Prefix=prefix, Delimiter = "/")
 
