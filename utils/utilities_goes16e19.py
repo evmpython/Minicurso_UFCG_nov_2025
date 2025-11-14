@@ -105,7 +105,7 @@ def download_CMI(yyyymmddhhmn, band, goes_number, path_dest):
   s3_client = boto3.client('s3', config=Config(signature_version=UNSIGNED))
   #-----------------------------------------------------------------------------------------------------------
   # File structure
-  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6C{int(band):02.0f}_G19_s{year}{day_of_year}{hour}{min}'
+  prefix = f'{product_name}/{year}/{day_of_year}/{hour}/OR_{product_name}-M6C{int(band):02.0f}_G{goes_number}_s{year}{day_of_year}{hour}{min}'
 
   print(prefix)
 
