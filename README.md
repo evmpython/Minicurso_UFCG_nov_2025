@@ -30,10 +30,15 @@
 
 | Data | Horário | Carga Horária | Módulo |
 |------|---------|:-------------:|--------|
-| 26/nov | 14:00-17:00 | 3h | **Módulo 1:** Plotagem de Imagens de Satélite |
+| 26/nov | 09:00-12:00 | 3h | **Módulo 1 (online):** Plotagem de Imagens de Satélite |
+| 26/nov | 14:00-17:00 | 3h | **Módulo 1 (presencial):** Plotagem de Imagens de Satélite |
+
 | 27/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
+
 | 27/nov | 14:00-17:00 | 3h | **Módulo 2:** Mapas e Séries Temporais de Precipitação |
+
 | 28/nov | 09:00-12:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos |
+
 | 28/nov | 14:00-17:00 | 3h | **Módulo 3:** Índices de Vegetação com Google Earth Engine |
 
 ---
