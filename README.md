@@ -62,7 +62,11 @@
    > 3. Acumulado e anomalia de precipitação para 2024 para o Brasil
    > 4. Acumulado de precipitação entre 2019 e 2024 para o Nordeste
 -	Séries Temporais
-   > 1. Acumulado e anomalia de precipitação para um determinado mês
+   > 1. Extração de série temporal
+   > 2. Série temporal total mensal 
+
+
+
 
 
 ### Módulo 3: Índices de Vegetação com GEE
