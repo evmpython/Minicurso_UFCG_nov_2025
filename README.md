@@ -53,9 +53,9 @@
 
 ### Módulo 2: Análise de Precipitação por Satélite
 -	Conhecendo o produto MERGE 
--	Precipitação por hora
--	Precipitação por dia
--	Precipitação por mês
+-	Precipitação por Hora
+-	Precipitação por Dia
+-	Precipitação por Mês
 -	Climatologia
    > 1. Acumulado e anomalia de precipitação para um determinado mês para o Brasil
    > 2. Acumulado médio mensal de precipitação entre 1998 e 2024 para o Nordeste
@@ -85,7 +85,7 @@
 -  Variáveis e níveis disponíveis
 -	Aprendendo a plotar alguns mapas simples
 -	Aprendendo a plotar série temporal para uma localidade
--  Mapa de Temperatura Mínima e Máxima
+-  Mapa de Temperatura Mínima e Máxima Diária
 
 ---
 
