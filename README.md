@@ -51,7 +51,7 @@
 - Projeção Satélite da Imagem Realçada + Total de Flashes do GLM
 - Evolução Temporal da Temperatura de Brilho do IR e Flashes GLM
 
-### Módulo 2: Análise de Precipitação por Satélite
+### Módulo 2: Mapas e Séries Temporais de Precipitação Estimada por Satélite
 -	Conhecendo o produto MERGE 
 -	Precipitação por Hora
 -	Precipitação por Dia
