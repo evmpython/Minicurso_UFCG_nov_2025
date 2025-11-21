@@ -42,13 +42,14 @@
 ## 🛰️ Conteúdo Programático
 
 ### Módulo 1: Plotagem de Imagens de Satélite
-- Processamento de imagens em projeção satélite (NOAA)
-- Geração de imagens em projeção retangular
-- Visualização de dados do INPE
-- Animações com canal infravermelho
-- Painéis de imagens multiespectrais
-- Integração com dados de relâmpagos
-- Rastreamento manual de tempestades
+- Projeção Satélite em Níveis de Cinza
+- Projeção Satélite em T-Realçada
+- Projeção Retangular em Níveis de Cinza
+- Projeção Retangular em T-Realçada
+- Plotando Várias Imagens do IR e Criando Animação
+- Plotando Painel de Imagens
+- Projeção Satélite da Imagem Realçada + Total de Flashes do GLM
+- Evolução Temporal da Temperatura de Brilho do IR e Flashes GLM
 
 ### Módulo 2: Análise de Precipitação por Satélite
 -	Conhecendo o produto MERGE  
