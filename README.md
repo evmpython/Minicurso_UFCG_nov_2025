@@ -70,18 +70,22 @@
    > 6. Série temporal Anual
    > 7. Série temporal Anomalia Anual
  
-### Módulo 3: Índices de Vegetação com GEE
--	Mapas interativos com geemap
--	Conhecendo e calculando diversos índices de vegetação
--	Criando animações dos índices de vegetação para países, estados e municípios 
--	Mapas climatológicos
--	Explorando séries temporais   
+### Módulo 3: Índices de Vegetação com Google Earth Engine
+-	Mapas Interativos com Geemap
+-	Conhecimentos Básicos de Índices Espectrais
+-	Carregando os Dados no Google Earth Engine (GEE)
+-	Plotando Mapa Interativo com Dados
+-	Fazendo Animações
+-  Mapas Climatológicos
+-  Séries Temporais
+-  Índice de Vegetação com o Satélite Sentinel-2	
 
-### Módulo Bônus: Trabalhando com dados do ERA5 na nuvem
+### Módulo Bônus: Trabalhando com Dados do ERA5 na Nuvem
 -	Acesso aos dados do ERA5 em nuvem
-- Variáveis e níveis disponíveis
+-  Variáveis e níveis disponíveis
 -	Aprendendo a plotar alguns mapas simples
 -	Aprendendo a plotar série temporal para uma localidade
+-  Mapa de Temperatura Mínima e Máxima
 
 ---
 
