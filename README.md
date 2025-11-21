@@ -53,9 +53,9 @@
 
 ### Módulo 2: Análise de Precipitação por Satélite
 -	Conhecendo o produto MERGE 
--	Precipitação por Hora
--	Precipitação por Dia
--	Precipitação por Mês
+-	Precipitação por hora
+-	Precipitação por dia
+-	Precipitação por mês
 -	Climatologia
    > 1. Acumulado e anomalia de precipitação para um determinado mês para o Brasil
    > 2. Acumulado médio mensal de precipitação entre 1998 e 2024 para o Nordeste
@@ -64,11 +64,11 @@
 -	Séries Temporais
    > 1. Extração de série temporal
    > 2. Série temporal total mensal 
-   > 3. Série temporal Total mensal da anomalia
+   > 3. Série temporal total mensal da anomalia
    > 4. Distribuição mensal-boxplot
    > 5. Mensal climatológica
-   > 6. Série temporal Anual
-   > 7. Série temporal Anomalia Anual
+   > 6. Série temporal anual
+   > 7. Série temporal anomalia anual
  
 ### Módulo 3: Índices de Vegetação com Google Earth Engine
 -	Mapas Interativos com Geemap
