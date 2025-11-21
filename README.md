@@ -81,10 +81,10 @@
 -  Índice de Vegetação com o Satélite Sentinel-2	
 
 ### Módulo Bônus: Trabalhando com Dados do ERA5 na Nuvem
--	Acesso aos dados do ERA5 em nuvem
--  Variáveis e níveis disponíveis
--	Aprendendo a plotar alguns mapas simples
--	Aprendendo a plotar série temporal para uma localidade
+-	Acesso aos Dados do ERA5 em Nuvem
+-  Variáveis e Níveis Disponíveis
+-	Aprendendo a Plotar Alguns Mapas Simples
+-	Aprendendo a Plotar Série Temporal para uma Localidade
 -  Mapa de Temperatura Mínima e Máxima Diária
 
 ---
