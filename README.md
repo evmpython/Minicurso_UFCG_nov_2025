@@ -57,7 +57,9 @@
 -	Precipitação por Dia
 -	Precipitação por Mês
 -	Climatologia
- > 1. Acumulado e anomalia de precipitação para 
+   1. Acumulado e anomalia de precipitação para um determinado mês
+
+
 -	Séries Temporais
 
 
