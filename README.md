@@ -52,16 +52,14 @@
 - Evolução Temporal da Temperatura de Brilho do IR e Flashes GLM
 
 ### Módulo 2: Análise de Precipitação por Satélite
--	Conhecendo o produto MERGE  
--	Mapa de precipitação horária 
--	Mapa de precipitação diária 
--	Mapa de precipitação mensal
--	Mapa de precipitação sazonal 
--	Mapa de precipitação anual  
--	Série temporal total mensal  
--	Série temporal média mensal  
--	Série temporal do acumulado anual  
--	Mapeando a precipitação para estados, municípios, bacias hidrográficas e uma latitude e longitude
+-	Conhecendo o produto MERGE 
+-	Precipitação por Hora
+-	Precipitação por Dia
+-	Precipitação por Mês
+-	Climatologia
+-- Acumulado e anomalia de precipitação para 
+-	Séries Temporais
+
 
 
 ### Módulo 3: Índices de Vegetação com GEE
