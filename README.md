@@ -64,11 +64,12 @@
 -	Séries Temporais
    > 1. Extração de série temporal
    > 2. Série temporal total mensal 
-
-
-
-
-
+   > 3. Série temporal Total mensal da anomalia
+   > 4. Distribuição mensal-boxplot
+   > 5. Mensal climatológica
+   > 6. Série temporal Anual
+   > 7. Série temporal Anomalia Anual
+ 
 ### Módulo 3: Índices de Vegetação com GEE
 -	Mapas interativos com geemap
 -	Conhecendo e calculando diversos índices de vegetação
