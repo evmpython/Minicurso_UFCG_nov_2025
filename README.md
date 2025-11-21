@@ -68,7 +68,7 @@
    > 4. Distribuição mensal-boxplot
    > 5. Mensal climatológica
    > 6. Série temporal anual
-   > 7. Série temporal anomalia anual
+   > 7. Série temporal da anomalia anual
  
 ### Módulo 3: Índices de Vegetação com Google Earth Engine
 -	Mapas Interativos com Geemap
