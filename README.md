@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Ementa do Curso
+## 📊 Cronongrama
 
 | Data | Horário | Carga Horária | Módulo |
 |------|---------|:-------------:|--------|
