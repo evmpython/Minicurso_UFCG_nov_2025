@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 Cronongrama
+## 📊 Cronograma
 
 | Data | Horário | Carga Horária | Módulo |
 |------|---------|:-------------:|--------|
