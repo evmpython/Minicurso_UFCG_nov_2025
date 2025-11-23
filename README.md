@@ -28,13 +28,13 @@
 
 ## 📊 Cronograma
 
-| Data | Horário | Carga Horária | Módulo |
+| Data | Horário | Carga Horária | Aulas |
 |------|---------|:-------------:|--------|
-| 26/nov | 09:00-12:00 | 3h | **Módulo 1 (*online*):** Plotagem de Imagens de Satélite |
-| 26/nov | 14:00-17:00 | 3h | **Módulo 1 (*presencial*):** Plotagem de Imagens de Satélite |
-| 27/nov | 09:00-12:00 | 3h | **Módulo 2 (*online*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 27/nov | 14:00-17:00 | 3h | **Módulo 2 (*presencial*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
-| 28/nov | 09:00-12:00 | 3h | **Módulo 3 (*online*):** Índices de Vegetação com Google Earth Engine |
+| 26/nov | 09:00-12:00 | 3h | **AULA 1 (*online*):** Plotagem de Imagens de Satélite |
+| 26/nov | 14:00-17:00 | 3h | **AULA 1 (*presencial*):** Plotagem de Imagens de Satélite |
+| 27/nov | 09:00-12:00 | 3h | **AULA 2 (*online*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
+| 27/nov | 14:00-17:00 | 3h | **AULA 2 (*presencial*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
+| 28/nov | 09:00-12:00 | 3h | **AULA 3 (*online*):** Índices de Vegetação com Google Earth Engine |
 | 28/nov | 14:00-17:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos (**presencial**) |
 
 ---
