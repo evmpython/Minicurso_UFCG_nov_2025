@@ -98,7 +98,6 @@ Estudantes de Graduação e Pós-graduação em Meteorologia da Universidade Fed
 > Pré-requisitos necessários para executar os códigos: 
   > 1. Possuir uma conta de E-mail do Gmail
   > 2. Possuir uma conta no Google Earth Engine: https://earthengine.google.com/. Veja vídeo explicando como criar uma conta no GEE e a ID do projeto: https://www.youtube.com/watch?v=RuKTG0rHHSw&t=6s 
-<img width="3860" height="88" alt="image" src="https://github.com/user-attachments/assets/8baf946d-1ff4-462e-b15f-b104df281213" />
 
 
 
