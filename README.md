@@ -15,7 +15,7 @@
 - **Data:** 26, 27 e 28 de novembro de 2025
 - **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
 - **Local:** Universidade Federal de Itajubá (UFCG)
-- **Vagas disponíveis:** Presencial (20 vagas) e Online 20 Vagas)
+- **Vagas disponíveis:** Presencial (20 vagas) e Online 40 Vagas)
 - **Carga Horária:** 15 horas
 
 ---
