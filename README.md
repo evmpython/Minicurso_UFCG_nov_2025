@@ -35,7 +35,7 @@
 | 27/nov | 09:00-12:00 | 3h | **AULA 2 (*online*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
 | 27/nov | 14:00-17:00 | 3h | **AULA 2 (*presencial*):** Mapas e Séries Temporais de Precipitação Estimada por Satélite |
 | 28/nov | 09:00-12:00 | 3h | **AULA 3 (*online*):** Índices de Vegetação com Google Earth Engine |
-| 28/nov | 14:00-17:00 | 3h | Plantão de Dúvidas + Apresentação de atividades pelos alunos (**presencial**) |
+| 28/nov | 14:00-17:00 | 3h | **AULA Bônus:** Trabalhando com Dados do ERA5 na Nuvem
 
 ---
 
