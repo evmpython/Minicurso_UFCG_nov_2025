@@ -16,7 +16,7 @@
 - **Horário:** 09:00 às 17:00 horas (com 2h de intervalo de almoço)
 - **Local:** Universidade Federal de Itajubá (UFCG)
 - **Vagas disponíveis:** Presencial (20 vagas) e Online 40 Vagas)
-- **Carga Horária:** 15 horas
+- **Carga Horária:** 18 horas
 
 ---
 
